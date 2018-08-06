@@ -48,3 +48,6 @@
   flex-flow: row wrap;
 }
 ```
+## 参考文档
+* 本代码参考阮一峰的网络日志:[Flex 布局教程：实例篇编写](http://www.ruanyifeng.com/blog/2015/07/flex-examples.html)
+* 语法学习 阮一峰的网络日志:[Flex 布局教程：语法篇](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
